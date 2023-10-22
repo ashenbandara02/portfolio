@@ -1,4 +1,4 @@
-import background from '../sources/bg1.png'
+import background from '../sources/bg1.png';
 import technologies from '../techstackdata';
 import Technologypreview from './technologypreviewer';
 

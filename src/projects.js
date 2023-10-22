@@ -2,7 +2,7 @@ import technologies from "./techstackdata"
 
 export const moviesmart = [
     {
-        url: '/projects/moviesmart/s-p1.jpg',
+        url: 'https://ashenbandara02.github.io/portfolio/projects/moviesmart/s-p1.jpg',
         name: 'MovieSmart',
         technologies: [technologies[3].location, technologies[0].location, technologies[1].location, technologies[2].location],
         caption: "Movie Listing Web Application That is used for finding out the best movie that suits you...",
@@ -10,10 +10,10 @@ export const moviesmart = [
         livedemo: "https://ashenbandara02.github.io/moviesmart",
     },
     {
-        url: '/projects/moviesmart/s-p2.jpg'
+        url: 'https://ashenbandara02.github.io/portfolio/projects/moviesmart/s-p2.jpg'
     },
     {
-        url: '/projects/moviesmart/s-p3.jpg'
+        url: 'https://ashenbandara02.github.io/portfolio/projects/moviesmart/s-p3.jpg'
     }
 ]
 
@@ -27,18 +27,18 @@ export const trafficreport = [
         livedemo: "https://traffic-report-system-4b16fbc34bd8.herokuapp.com/",
     },
     {
-        url: '/projects/trafficproject/p2.jpg'
+        url: 'https://ashenbandara02.github.io/portfolio/projects/trafficproject/p2.jpg'
     },
     {
-        url: '/projects/trafficproject/p3.jpg'
+        url: 'https://ashenbandara02.github.io/portfolio/projects/trafficproject/p3.jpg'
     },
     {
-        url: '/projects/trafficproject/p4.jpg'
+        url: 'https://ashenbandara02.github.io/portfolio/projects/trafficproject/p4.jpg'
     },
     {
-        url: '/projects/trafficproject/p5.jpg'
+        url: 'https://ashenbandara02.github.io/portfolio/projects/trafficproject/p5.jpg'
     },
     {
-        url: '/projects/trafficproject/p6.jpg'
+        url: 'https://ashenbandara02.github.io/portfolio/projects/trafficproject/p6.jpg'
     }
 ]
